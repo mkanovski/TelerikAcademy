@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\test\bin\Debug\test.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\test\bin\Debug\test.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\test\bin\Debug\test.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\test\obj\Debug\test.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\test\obj\Debug\test.pdb

@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\RemoveElementsArray\bin\Debug\RemoveElementsArray.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\RemoveElementsArray\bin\Debug\RemoveElementsArray.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\RemoveElementsArray\bin\Debug\RemoveElementsArray.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\RemoveElementsArray\obj\Debug\RemoveElementsArray.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\RemoveElementsArray\obj\Debug\RemoveElementsArray.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\RemoveElementsArray\obj\Debug\RemoveElementsArray.pdb

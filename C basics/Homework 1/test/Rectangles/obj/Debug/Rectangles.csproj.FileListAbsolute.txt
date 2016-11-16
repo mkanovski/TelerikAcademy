@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\Rectangles\obj\Debug\Rectangles.pdb

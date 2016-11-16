@@ -1,0 +1,5 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\MoonGravity\bin\Debug\MoonGravity.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\MoonGravity\bin\Debug\MoonGravity.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\MoonGravity\obj\Debug\MoonGravity.pdb

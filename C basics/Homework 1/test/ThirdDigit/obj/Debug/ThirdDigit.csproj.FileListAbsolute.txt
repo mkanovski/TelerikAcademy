@@ -1,0 +1,2 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache

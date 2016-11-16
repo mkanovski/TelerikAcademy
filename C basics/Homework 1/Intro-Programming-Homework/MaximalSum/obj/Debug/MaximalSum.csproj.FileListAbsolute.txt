@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximalSum\obj\Debug\MaximalSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\DivideBy7and5\bin\Debug\DivideBy7and5.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\DivideBy7and5\obj\Debug\DivideBy7and5.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\DivideBy7and5\obj\Debug\DivideBy7and5.pdb

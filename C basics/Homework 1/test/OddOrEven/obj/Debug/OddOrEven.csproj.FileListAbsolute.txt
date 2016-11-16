@@ -1,0 +1,5 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\test\OddOrEven\obj\Debug\OddOrEven.pdb

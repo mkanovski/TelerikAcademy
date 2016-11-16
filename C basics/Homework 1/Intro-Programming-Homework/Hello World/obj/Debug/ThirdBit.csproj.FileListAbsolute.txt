@@ -1,0 +1,8 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\bin\Debug\Hello World.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\bin\Debug\Hello World.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\obj\Debug\ThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\obj\Debug\ThirdBit.csproj.GenerateResource.Cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\obj\Debug\Hello World.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\Hello World\obj\Debug\Hello World.pdb

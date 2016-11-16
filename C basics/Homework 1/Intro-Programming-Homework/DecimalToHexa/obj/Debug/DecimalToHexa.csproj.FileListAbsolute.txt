@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\DecimalToHexa\bin\Debug\DecimalToHexa.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\DecimalToHexa\bin\Debug\DecimalToHexa.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\DecimalToHexa\bin\Debug\DecimalToHexa.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\DecimalToHexa\obj\Debug\DecimalToHexa.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\DecimalToHexa\obj\Debug\DecimalToHexa.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\DecimalToHexa\obj\Debug\DecimalToHexa.pdb

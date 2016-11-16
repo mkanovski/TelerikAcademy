@@ -1,0 +1,1 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C basics\Homework 1\Intro-Programming-Homework\MaximumIncreasingSequence\bin\Debug\MaximumIncreasingSequence.exe.config
