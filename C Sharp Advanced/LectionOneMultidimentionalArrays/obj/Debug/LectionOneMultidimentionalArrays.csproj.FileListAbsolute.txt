@@ -1,1 +1,2 @@
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\LectionOneMultidimentionalArrays\bin\Debug\LectionOneMultidimentionalArrays.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\LectionOneMultidimentionalArrays\bin\Debug\LectionOneMultidimentionalArrays.exe.config

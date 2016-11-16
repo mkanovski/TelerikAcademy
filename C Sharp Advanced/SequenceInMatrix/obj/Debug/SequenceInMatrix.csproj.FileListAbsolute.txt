@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

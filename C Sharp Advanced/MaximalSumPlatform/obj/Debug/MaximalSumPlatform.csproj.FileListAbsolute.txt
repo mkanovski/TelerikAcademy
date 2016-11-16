@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MaximalSumPlatform\bin\Debug\MaximalSumPlatform.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MaximalSumPlatform\bin\Debug\MaximalSumPlatform.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MaximalSumPlatform\bin\Debug\MaximalSumPlatform.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MaximalSumPlatform\obj\Debug\MaximalSumPlatform.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MaximalSumPlatform\obj\Debug\MaximalSumPlatform.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MaximalSumPlatform\obj\Debug\MaximalSumPlatform.pdb

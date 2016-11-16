@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\TestProject\bin\Debug\TestProject.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\TestProject\obj\Debug\FillMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\TestProject\obj\Debug\TestProject.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\TestProject\obj\Debug\TestProject.pdb
