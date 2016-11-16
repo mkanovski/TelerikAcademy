@@ -1,1 +1,6 @@
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\TestProject\bin\Debug\TestProject.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\TestProject\bin\Debug\TestProject.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\TestProject\obj\Debug\TestProject.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\TestProject\obj\Debug\TestProject.pdb
