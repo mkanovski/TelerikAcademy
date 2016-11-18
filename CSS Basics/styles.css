@@ -1,0 +1,12 @@
+table {
+	border: 1px;
+}
+
+table tr:nth-child(2n) {
+	background-color: gray;
+}
+
+@import url(styles.css)	
+
+
+		
