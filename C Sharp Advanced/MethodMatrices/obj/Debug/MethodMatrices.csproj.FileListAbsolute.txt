@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMatrices\bin\Debug\MethodMatrices.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMatrices\bin\Debug\MethodMatrices.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMatrices\bin\Debug\MethodMatrices.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMatrices\obj\Debug\MethodMatrices.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMatrices\obj\Debug\MethodMatrices.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\Methods\bin\Debug\Methods.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\Methods\bin\Debug\Methods.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\Methods\bin\Debug\Methods.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\Methods\obj\Debug\Methods.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\Methods\obj\Debug\Methods.pdb

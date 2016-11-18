@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\VariableNumberOfArguments\bin\Debug\VariableNumberOfArguments.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\VariableNumberOfArguments\bin\Debug\VariableNumberOfArguments.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\VariableNumberOfArguments\bin\Debug\VariableNumberOfArguments.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\VariableNumberOfArguments\obj\Debug\VariableNumberOfArguments.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\VariableNumberOfArguments\obj\Debug\VariableNumberOfArguments.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\VariableNumberOfArguments\obj\Debug\VariableNumberOfArguments.pdb
