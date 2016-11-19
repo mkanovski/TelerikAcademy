@@ -1,0 +1,43 @@
+body{
+	font-family: Ariel, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+table, thead, td, th{
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+table, thead{
+	border: 1px solid #c6c6c6;
+}
+
+th{
+	background-color: #54b706;
+	color: #ffffff;
+	font-weight: normal;
+	text-align: left;
+}
+
+tr:nth-child(even) {
+	background-color: #ececd8;
+}
+
+.name{
+	width: 150px;
+}
+
+.city{
+	border-left: 1px solid #c6c6c6;
+	width: 110px;
+}
+
+.country{
+	border-left: 1px solid #c6c6c6;
+	border-right: 1px solid #c6c6c6;
+	width: 130px;
+}
+
+.isPromoted{
+	width: 100px;
+}

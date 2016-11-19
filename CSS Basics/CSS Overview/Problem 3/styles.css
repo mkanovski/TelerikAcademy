@@ -1,0 +1,55 @@
+body{
+	background-color: #A9A9A9;
+}
+
+h1{
+	text-align: center;
+	font-size: 42px;
+	color: #FFFFFF;
+}
+
+article > header > h1{
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 30px;
+}
+
+li > a{
+	color: #FFFFFF;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.last{
+	text-decoration: underline;
+}
+
+a{
+	text-decoration: none;
+}
+
+li{
+	list-style-type: none;
+}
+
+nav{
+	margin: auto;
+	width: 15%;
+}
+
+.current{
+	background-color: #D3D3D3;
+}
+
+p > a{
+	color: black;
+}
+
+footer > p{
+	font-size: 0.8em;
+}
+
+body > footer{
+	text-align: center;
+}
+

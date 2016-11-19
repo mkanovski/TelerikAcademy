@@ -1,0 +1,54 @@
+body{
+	background-color: #595959;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+td, th{
+	padding: 5px;
+}
+
+.tableHeading{
+	color: #BBBBBB;
+	font-weight: normal;
+	text-align: left;
+}
+
+.cellName{
+	color: #FFFFFF;
+	font-size: 0.7em;
+	font-style: italic;
+}
+
+.cellInfo{
+	text-align: right;
+}
+
+.personalInfo{
+	color: #F6F0B5;
+	font-size: 0.7em;
+}
+
+.statusSupport{
+	color: #FF0000;
+	font-size: 0.7em;
+	font-weight: bold;
+	padding: 0px;
+	padding-left: 5px;
+	height: 20px;
+	vertical-align: top;
+}
+
+.bullet{
+	color: #71b47a;
+}
+
+.adminData{
+	color: #BBBBBB;
+	font-size: 0.7em;
+}
+
+.statusTicket{
+	color: #e36a24;
+	font-size: 0.7em;
+	font-weight: bold;
+}
