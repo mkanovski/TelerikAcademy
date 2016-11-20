@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReadIntArray\bin\Debug\MethodReadIntArray.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReadIntArray\bin\Debug\MethodReadIntArray.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReadIntArray\bin\Debug\MethodReadIntArray.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReadIntArray\obj\Debug\MethodReadIntArray.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReadIntArray\obj\Debug\MethodReadIntArray.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReadIntArray\obj\Debug\MethodReadIntArray.pdb

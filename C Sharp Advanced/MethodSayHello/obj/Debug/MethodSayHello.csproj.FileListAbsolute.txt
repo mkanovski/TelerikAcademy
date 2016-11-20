@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSayHello\bin\Debug\MethodSayHello.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSayHello\bin\Debug\MethodSayHello.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSayHello\bin\Debug\MethodSayHello.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSayHello\obj\Debug\MethodSayHello.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSayHello\obj\Debug\MethodSayHello.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSayHello\obj\Debug\MethodSayHello.pdb

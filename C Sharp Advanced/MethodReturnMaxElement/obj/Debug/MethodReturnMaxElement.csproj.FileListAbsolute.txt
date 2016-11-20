@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReturnMaxElement\bin\Debug\MethodReturnMaxElement.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReturnMaxElement\obj\Debug\MethodReturnMaxElement.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReturnMaxElement\bin\Debug\MethodReturnMaxElement.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReturnMaxElement\bin\Debug\MethodReturnMaxElement.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReturnMaxElement\obj\Debug\MethodReturnMaxElement.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReturnMaxElement\obj\Debug\MethodReturnMaxElement.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodEnglishDigit\bin\Debug\MethodEnglishDigit.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodEnglishDigit\bin\Debug\MethodEnglishDigit.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodEnglishDigit\bin\Debug\MethodEnglishDigit.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodEnglishDigit\obj\Debug\MethodEnglishDigit.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodEnglishDigit\obj\Debug\MethodEnglishDigit.pdb

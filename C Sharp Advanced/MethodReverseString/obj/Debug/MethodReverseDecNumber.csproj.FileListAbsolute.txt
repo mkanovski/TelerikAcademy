@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReverseString\bin\Debug\MethodReverseString.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReverseString\bin\Debug\MethodReverseString.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReverseString\bin\Debug\MethodReverseString.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReverseString\obj\Debug\MethodReverseDecNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReverseString\obj\Debug\MethodReverseString.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodReverseString\obj\Debug\MethodReverseString.pdb

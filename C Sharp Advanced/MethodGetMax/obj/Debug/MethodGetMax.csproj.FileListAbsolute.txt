@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodGetMax\bin\Debug\MethodGetMax.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodGetMax\bin\Debug\MethodGetMax.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodGetMax\bin\Debug\MethodGetMax.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodGetMax\obj\Debug\MethodGetMax.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodGetMax\obj\Debug\MethodGetMax.pdb

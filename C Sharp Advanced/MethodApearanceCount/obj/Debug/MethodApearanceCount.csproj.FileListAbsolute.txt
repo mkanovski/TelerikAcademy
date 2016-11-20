@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodApearanceCount\bin\Debug\MethodApearanceCount.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodApearanceCount\bin\Debug\MethodApearanceCount.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodApearanceCount\bin\Debug\MethodApearanceCount.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodApearanceCount\obj\Debug\MethodApearanceCount.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodApearanceCount\obj\Debug\MethodApearanceCount.pdb

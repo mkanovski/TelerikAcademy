@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFirstLargerElement\bin\Debug\MethodFirstLargerElement.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFirstLargerElement\bin\Debug\MethodFirstLargerElement.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFirstLargerElement\bin\Debug\MethodFirstLargerElement.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFirstLargerElement\obj\Debug\MethodFirstLargerElement.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFirstLargerElement\obj\Debug\MethodFirstLargerElement.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFirstLargerElement\obj\Debug\MethodFirstLargerElement.pdb

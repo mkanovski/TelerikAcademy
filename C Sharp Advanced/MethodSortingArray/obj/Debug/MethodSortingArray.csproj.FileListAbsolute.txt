@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSortingArray\bin\Debug\MethodSortingArray.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSortingArray\bin\Debug\MethodSortingArray.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSortingArray\bin\Debug\MethodSortingArray.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSortingArray\obj\Debug\MethodSortingArray.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSortingArray\obj\Debug\MethodSortingArray.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodSortingArray\obj\Debug\MethodSortingArray.pdb

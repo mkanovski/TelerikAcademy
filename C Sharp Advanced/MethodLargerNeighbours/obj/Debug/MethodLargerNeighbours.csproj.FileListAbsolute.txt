@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodLargerNeighbours\bin\Debug\MethodLargerNeighbours.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodLargerNeighbours\bin\Debug\MethodLargerNeighbours.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodLargerNeighbours\bin\Debug\MethodLargerNeighbours.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodLargerNeighbours\obj\Debug\MethodLargerNeighbours.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodLargerNeighbours\obj\Debug\MethodLargerNeighbours.pdb
