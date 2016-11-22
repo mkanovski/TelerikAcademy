@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMinMaxAvgSumProduct\bin\Debug\MethodMinMaxAvgSumProduct.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMinMaxAvgSumProduct\bin\Debug\MethodMinMaxAvgSumProduct.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMinMaxAvgSumProduct\bin\Debug\MethodMinMaxAvgSumProduct.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMinMaxAvgSumProduct\obj\Debug\MethodMinMaxAvgSumProduct.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMinMaxAvgSumProduct\obj\Debug\MethodMinMaxAvgSumProduct.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodMinMaxAvgSumProduct\obj\Debug\MethodMinMaxAvgSumProduct.pdb

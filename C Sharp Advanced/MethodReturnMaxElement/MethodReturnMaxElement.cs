@@ -6,17 +6,27 @@ namespace MethodReturnMaxElement
     {
         static void Main()
         {
-            int[] arr = { 34, 1, 2, 5, 27, 8 };
+            int size = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(string.Join(" ", SortArrayAsc(arr)));
+            int[] arr = TurnToIntArray(Console.ReadLine(), ' ');
+
+            Console.WriteLine(String.Join(" ", SortArrayAsc(arr))); 
             
         }
 
         static int[] SortArrayAsc(int[] arr)
         {
-            
+            int[] sortedArr = new int[arr.Length];
+            int lastElement = sortedArr.Length - 1;
 
-            return arr;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sortedArr[lastElement] = MaxElement(arr, 0);
+                arr[Array.IndexOf(arr, sortedArr[lastElement])] = int.MinValue;
+                lastElement--;
+            }
+
+            return sortedArr;
         }
 
         static int[] SortArrayDesc(int[] arr)
@@ -53,6 +63,19 @@ namespace MethodReturnMaxElement
                     }
                 }
             return maxElement;
+        }
+
+        static int[] TurnToIntArray(string line, char separator)
+        {
+            string[] lineNumbers = line.Split(separator);
+            int[] numbers = new int[lineNumbers.Length];
+
+            for (int i = 0; i < lineNumbers.Length; i++)
+            {
+                numbers[i] = int.Parse(lineNumbers[i]);
+            }
+
+            return numbers;
         }
     }
 }

@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodSortingArray", "Metho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodReturnMaxElement", "MethodReturnMaxElement\MethodReturnMaxElement.csproj", "{78E18D62-496D-4A7E-B444-360F516AD5FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodFactoriel", "MethodFactoriel\MethodFactoriel.csproj", "{FA26675F-1AB8-422B-9FE2-2621F06A9A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodMinMaxAvgSumProduct", "MethodMinMaxAvgSumProduct\MethodMinMaxAvgSumProduct.csproj", "{D7A10DF7-765E-41D9-8C36-B2D5730180AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{78E18D62-496D-4A7E-B444-360F516AD5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78E18D62-496D-4A7E-B444-360F516AD5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78E18D62-496D-4A7E-B444-360F516AD5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA26675F-1AB8-422B-9FE2-2621F06A9A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA26675F-1AB8-422B-9FE2-2621F06A9A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA26675F-1AB8-422B-9FE2-2621F06A9A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA26675F-1AB8-422B-9FE2-2621F06A9A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A10DF7-765E-41D9-8C36-B2D5730180AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A10DF7-765E-41D9-8C36-B2D5730180AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A10DF7-765E-41D9-8C36-B2D5730180AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A10DF7-765E-41D9-8C36-B2D5730180AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

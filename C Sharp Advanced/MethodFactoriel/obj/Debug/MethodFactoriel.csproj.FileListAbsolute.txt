@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFactoriel\bin\Debug\MethodFactoriel.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFactoriel\obj\Debug\MethodFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFactoriel\bin\Debug\MethodFactoriel.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFactoriel\bin\Debug\MethodFactoriel.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFactoriel\obj\Debug\MethodFactoriel.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\MethodFactoriel\obj\Debug\MethodFactoriel.pdb
