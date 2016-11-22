@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsDecToBinary\bin\Debug\NumeralSystemsDecToBinary.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsDecToBinary\bin\Debug\NumeralSystemsDecToBinary.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsDecToBinary\bin\Debug\NumeralSystemsDecToBinary.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsDecToBinary\obj\Debug\NumeralSystemsDecToBinary.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsDecToBinary\obj\Debug\NumeralSystemsDecToBinary.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsDecToBinary\obj\Debug\NumeralSystemsDecToBinary.pdb

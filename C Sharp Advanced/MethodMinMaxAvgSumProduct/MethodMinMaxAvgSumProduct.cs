@@ -10,11 +10,17 @@ namespace MethodMinMaxAvgSumProduct
 
             decimal[] result = Maths(line);
 
-            Console.WriteLine(result[0]);
-            Console.WriteLine(result[1]);
-            Console.WriteLine("{0:0.00}", result[2]);
-            Console.WriteLine(result[3]);
-            Console.WriteLine(result[4]);
+            foreach (decimal item in result)
+            {
+                if(item % 1 == 0)
+                {
+                    Console.WriteLine(item);
+                }
+                else
+                {
+                    Console.WriteLine("{0:0.00}", item);
+                }
+            }
         }
 
         static decimal[] Maths(params int[] arr)
