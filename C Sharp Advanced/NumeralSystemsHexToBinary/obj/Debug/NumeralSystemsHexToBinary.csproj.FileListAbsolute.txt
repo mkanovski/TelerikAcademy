@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsHexToBinary\bin\Debug\NumeralSystemsHexToBinary.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsHexToBinary\bin\Debug\NumeralSystemsHexToBinary.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsHexToBinary\bin\Debug\NumeralSystemsHexToBinary.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsHexToBinary\obj\Debug\NumeralSystemsHexToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsHexToBinary\obj\Debug\NumeralSystemsHexToBinary.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsHexToBinary\obj\Debug\NumeralSystemsHexToBinary.pdb

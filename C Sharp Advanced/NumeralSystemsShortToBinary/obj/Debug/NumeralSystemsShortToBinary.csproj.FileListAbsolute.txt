@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsShortToBinary\bin\Debug\NumeralSystemsShortToBinary.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsShortToBinary\bin\Debug\NumeralSystemsShortToBinary.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsShortToBinary\bin\Debug\NumeralSystemsShortToBinary.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsShortToBinary\obj\Debug\NumeralSystemsShortToBinary.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsShortToBinary\obj\Debug\NumeralSystemsShortToBinary.pdb

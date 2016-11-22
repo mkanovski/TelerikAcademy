@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\testov\bin\Debug\testov.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\testov\bin\Debug\testov.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\testov\bin\Debug\testov.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\testov\obj\Debug\testov.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\testov\obj\Debug\testov.pdb

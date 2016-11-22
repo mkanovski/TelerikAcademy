@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemHexToDec\bin\Debug\NumeralSystemHexToDec.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemHexToDec\bin\Debug\NumeralSystemHexToDec.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemHexToDec\bin\Debug\NumeralSystemHexToDec.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemHexToDec\obj\Debug\NumeralSystemHexToDec.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemHexToDec\obj\Debug\NumeralSystemHexToDec.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemHexToDec\obj\Debug\NumeralSystemHexToDec.pdb

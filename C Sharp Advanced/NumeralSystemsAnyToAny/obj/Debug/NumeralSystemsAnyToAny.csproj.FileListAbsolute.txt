@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsAnyToAny\bin\Debug\NumeralSystemsAnyToAny.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsAnyToAny\bin\Debug\NumeralSystemsAnyToAny.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsAnyToAny\bin\Debug\NumeralSystemsAnyToAny.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsAnyToAny\obj\Debug\NumeralSystemsAnyToAny.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsAnyToAny\obj\Debug\NumeralSystemsAnyToAny.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsAnyToAny\obj\Debug\NumeralSystemsAnyToAny.pdb
