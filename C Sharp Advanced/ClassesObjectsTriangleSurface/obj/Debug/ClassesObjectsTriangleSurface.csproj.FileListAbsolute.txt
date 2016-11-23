@@ -1,0 +1,5 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleSurface\bin\Debug\ClassesObjectsTriangleSurface.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleSurface\bin\Debug\ClassesObjectsTriangleSurface.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleSurface\bin\Debug\ClassesObjectsTriangleSurface.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleSurface\obj\Debug\ClassesObjectsTriangleSurface.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleSurface\obj\Debug\ClassesObjectsTriangleSurface.pdb

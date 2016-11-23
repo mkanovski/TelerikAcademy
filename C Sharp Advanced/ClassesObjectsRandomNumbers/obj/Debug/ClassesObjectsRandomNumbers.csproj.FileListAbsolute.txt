@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsRandomNumbers\bin\Debug\ClassesObjectsRandomNumbers.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsRandomNumbers\bin\Debug\ClassesObjectsRandomNumbers.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsRandomNumbers\bin\Debug\ClassesObjectsRandomNumbers.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsRandomNumbers\obj\Debug\ClassesObjectsRandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsRandomNumbers\obj\Debug\ClassesObjectsRandomNumbers.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsRandomNumbers\obj\Debug\ClassesObjectsRandomNumbers.pdb
