@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleTwoSidesAngle\bin\Debug\ClassesObjectsTriangleTwoSidesAngle.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleTwoSidesAngle\bin\Debug\ClassesObjectsTriangleTwoSidesAngle.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleTwoSidesAngle\bin\Debug\ClassesObjectsTriangleTwoSidesAngle.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleTwoSidesAngle\obj\Debug\ClassesObjectsTriangleTwoSidesAngle.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleTwoSidesAngle\obj\Debug\ClassesObjectsTriangleTwoSidesAngle.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleTwoSidesAngle\obj\Debug\ClassesObjectsTriangleTwoSidesAngle.pdb

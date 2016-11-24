@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsIntegerSum\bin\Debug\ClassesObjectsIntegerSum.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsIntegerSum\bin\Debug\ClassesObjectsIntegerSum.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsIntegerSum\bin\Debug\ClassesObjectsIntegerSum.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsIntegerSum\obj\Debug\ClassesObjectsIntegerSum.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsIntegerSum\obj\Debug\ClassesObjectsIntegerSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleThreeSides\bin\Debug\ClassesObjectsTriangleThreeSides.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleThreeSides\bin\Debug\ClassesObjectsTriangleThreeSides.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleThreeSides\bin\Debug\ClassesObjectsTriangleThreeSides.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleThreeSides\obj\Debug\ClassesObjectsTriangleThreeSides.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleThreeSides\obj\Debug\ClassesObjectsTriangleThreeSides.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsTriangleThreeSides\obj\Debug\ClassesObjectsTriangleThreeSides.pdb

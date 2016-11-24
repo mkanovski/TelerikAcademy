@@ -4,3 +4,6 @@ C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinary
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinaryToDec\bin\Debug\NumeralSystemsBinaryToDec.pdb
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinaryToDec\obj\Debug\NumeralSystemsBinaryToDec.exe
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinaryToDec\obj\Debug\NumeralSystemsBinaryToDec.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinaryToDec\bin\Debug\NumeralSystemsBinaryToDec.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinaryToDec\obj\Debug\NumeralSystemsBinaryToDec.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\NumeralSystemsBinaryToDec\obj\Debug\NumeralSystemsBinaryToDec.pdb

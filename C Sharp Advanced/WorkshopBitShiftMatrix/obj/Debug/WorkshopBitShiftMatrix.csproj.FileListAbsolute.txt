@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopBitShiftMatrix\bin\Debug\WorkshopBitShiftMatrix.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopBitShiftMatrix\bin\Debug\WorkshopBitShiftMatrix.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopBitShiftMatrix\bin\Debug\WorkshopBitShiftMatrix.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopBitShiftMatrix\obj\Debug\WorkshopBitShiftMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopBitShiftMatrix\obj\Debug\WorkshopBitShiftMatrix.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopBitShiftMatrix\obj\Debug\WorkshopBitShiftMatrix.pdb

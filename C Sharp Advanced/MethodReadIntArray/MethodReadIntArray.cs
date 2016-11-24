@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace MethodReadIntArray
 {
@@ -8,6 +9,10 @@ namespace MethodReadIntArray
         {
                        
         }
+
+        // Едноредово решение
+        // using System.Linq;
+        int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
         static int[] TurnToIntArray(string line, char separator)
         {
