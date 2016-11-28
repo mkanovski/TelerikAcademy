@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsSeriesLetters\bin\Debug\StringsSeriesLetters.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsSeriesLetters\bin\Debug\StringsSeriesLetters.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsSeriesLetters\bin\Debug\StringsSeriesLetters.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsSeriesLetters\obj\Debug\StringsSeriesLetters.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsSeriesLetters\obj\Debug\StringsSeriesLetters.pdb

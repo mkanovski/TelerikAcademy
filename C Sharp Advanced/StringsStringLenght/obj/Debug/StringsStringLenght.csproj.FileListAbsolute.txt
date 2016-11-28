@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsStringLenght\bin\Debug\StringsStringLenght.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsStringLenght\bin\Debug\StringsStringLenght.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsStringLenght\bin\Debug\StringsStringLenght.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsStringLenght\obj\Debug\StringsStringLenght.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsStringLenght\obj\Debug\StringsStringLenght.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsStringLenght\obj\Debug\StringsStringLenght.pdb

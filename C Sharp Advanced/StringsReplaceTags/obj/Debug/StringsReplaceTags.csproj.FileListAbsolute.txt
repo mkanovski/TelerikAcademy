@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsReplaceTags\bin\Debug\StringsReplaceTags.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsReplaceTags\bin\Debug\StringsReplaceTags.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsReplaceTags\bin\Debug\StringsReplaceTags.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsReplaceTags\obj\Debug\StringsReplaceTags.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsReplaceTags\obj\Debug\StringsReplaceTags.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsReplaceTags\obj\Debug\StringsReplaceTags.pdb

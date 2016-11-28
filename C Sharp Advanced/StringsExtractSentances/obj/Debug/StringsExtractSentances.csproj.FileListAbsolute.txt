@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsExtractSentances\bin\Debug\StringsExtractSentances.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsExtractSentances\bin\Debug\StringsExtractSentances.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsExtractSentances\bin\Debug\StringsExtractSentances.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsExtractSentances\obj\Debug\StringsExtractSentances.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsExtractSentances\obj\Debug\StringsExtractSentances.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsExtractSentances\obj\Debug\StringsExtractSentances.csprojResolveAssemblyReference.cache

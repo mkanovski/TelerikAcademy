@@ -3,3 +3,6 @@ C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWee
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWeek\bin\Debug\ClassesObjectsDayWeek.pdb
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWeek\obj\Debug\ClassesObjectsDayWeek.exe
 C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWeek\obj\Debug\ClassesObjectsDayWeek.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWeek\bin\Debug\ClassesObjectsDayWeek.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWeek\obj\Debug\ClassesObjectsDayWeek.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ClassesObjectsDayWeek\obj\Debug\ClassesObjectsDayWeek.pdb

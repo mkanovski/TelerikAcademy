@@ -1,0 +1,5 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringSubStringText\bin\Debug\StringSubStringText.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringSubStringText\bin\Debug\StringSubStringText.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringSubStringText\bin\Debug\StringSubStringText.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringSubStringText\obj\Debug\StringSubStringText.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringSubStringText\obj\Debug\StringSubStringText.pdb

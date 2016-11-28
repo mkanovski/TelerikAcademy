@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringCorrectCrackets\bin\Debug\StringCorrectCrackets.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringCorrectCrackets\bin\Debug\StringCorrectCrackets.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringCorrectCrackets\bin\Debug\StringCorrectCrackets.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringCorrectCrackets\obj\Debug\StringCorrectCrackets.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringCorrectCrackets\obj\Debug\StringCorrectCrackets.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringCorrectCrackets\obj\Debug\StringCorrectCrackets.pdb

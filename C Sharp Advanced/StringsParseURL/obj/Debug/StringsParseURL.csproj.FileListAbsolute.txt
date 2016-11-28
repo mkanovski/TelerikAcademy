@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseURL\bin\Debug\StringsParseURL.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseURL\bin\Debug\StringsParseURL.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseURL\bin\Debug\StringsParseURL.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseURL\obj\Debug\StringsParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseURL\obj\Debug\StringsParseURL.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseURL\obj\Debug\StringsParseURL.pdb

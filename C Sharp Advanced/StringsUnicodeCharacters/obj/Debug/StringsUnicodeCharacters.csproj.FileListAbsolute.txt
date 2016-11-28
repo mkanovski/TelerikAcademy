@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsUnicodeCharacters\bin\Debug\StringsUnicodeCharacters.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsUnicodeCharacters\bin\Debug\StringsUnicodeCharacters.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsUnicodeCharacters\bin\Debug\StringsUnicodeCharacters.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsUnicodeCharacters\obj\Debug\StringsUnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsUnicodeCharacters\obj\Debug\StringsUnicodeCharacters.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsUnicodeCharacters\obj\Debug\StringsUnicodeCharacters.pdb

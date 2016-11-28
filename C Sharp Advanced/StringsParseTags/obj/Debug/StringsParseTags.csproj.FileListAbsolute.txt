@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseTags\bin\Debug\StringsParseTags.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseTags\bin\Debug\StringsParseTags.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseTags\bin\Debug\StringsParseTags.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseTags\obj\Debug\StringsParseTags.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseTags\obj\Debug\StringsParseTags.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\StringsParseTags\obj\Debug\StringsParseTags.pdb
