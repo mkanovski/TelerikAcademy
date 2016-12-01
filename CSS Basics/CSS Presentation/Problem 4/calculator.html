@@ -1,135 +1,159 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="styles.css">
 	<title>Calculator</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-<section>
-<table class="main">
-	<nav>
-		<tr class="navrow">
-			<td class="navigation">View</td>
-			<td class="navigation">Edit</td>
-			<td class="navigation">Help</td>
-		</tr>
-	</nav>
-	<tr class="input">
-		<td><input type="text" name="input"></td>
-	</tr>
-	<tr>
-		<td class="numbers">
-			<table class="numbersTable">
-				<tr class="mainNumber">
-					<td>0000</td>
-					<td>0000</td>
-					<td>0000</td>
-					<td>0000</td>
-					<td>0000</td>
-					<td>0000</td>
-					<td>0000</td>
-					<td>0000</td>
+<div class="window">
+	<div class="systemBar">
+		<div>
+			<img height="20" width="15" src="icon.jpg">&nbsp;&nbsp;&nbsp;&nbsp;<span id="name">Calculator</span>
+		</div>
+		<div class="minmaxclose">
+			<img src="windows.png">
+		</div>
+	</div>
+	<div class="navigationBar">
+		<div class="navMenu">View</div>
+		<div class="navMenu">Edit</div>
+		<div class="navMenu">Help</div>
+			
+	</div>
+	<div class="mainHolder">
+		<div class="input">
+			<span id="inputNumber" >8854455</span>
+		</div>
+		<div class="numbers">
+			<table class="tableNumbers">
+				<tr>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
 				</tr>
-				<tr class="secondaryNumbers">
-					<td>63</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td>47</td>
-					<td></td>
-					<td></td>
-					<td>32</td>
+				<tr>
+					<td class="number grey">63</td>
+					<td class="number"></td>
+					<td class="number"></td>
+					<td class="number"></td>
+					<td class="number grey">47</td>
+					<td class="number"></td>
+					<td class="number"></td>
+					<td class="number grey">32</td>
 				</tr>
-				<tr class="mainNumber">
-					<td>0000</td>
-					<td>0000</td>
-					<td>1000</td>
-					<td>0111</td>
-					<td>0001</td>
-					<td>1011</td>
-					<td>1011</td>
-					<td>0111</td>
+				<tr>
+					<td class="number">0000</td>
+					<td class="number">0000</td>
+					<td class="number">1000</td>
+					<td class="number">0111</td>
+					<td class="number">0001</td>
+					<td class="number">1011</td>
+					<td class="number">1011</td>
+					<td class="number">0111</td>
 				</tr>
-				<tr class="secondaryNumbers">
-					<td>31</td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td>15</td>
-					<td></td>
-					<td></td>
-					<td>0</td>
+				<tr>
+					<td class="number grey">31</td>
+					<td class="number"></td>
+					<td class="number"></td>
+					<td class="number"></td>
+					<td class="number grey">15</td>
+					<td class="number"></td>
+					<td class="number"></td>
+					<td class="number grey">0</td>
 				</tr>
 			</table>
-		</td>		
-	</tr>
-	<tr class="buttons">
-		<td colspan="2" rowspan="3"></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr class="buttons">
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr class="buttons">
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr class="buttons">
-		<td colspan="2" rowspan="3"></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr class="buttons">
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr class="buttons">
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
+		</div>
+		<div class="buttons">
+			<div class="numeralSystem">
+				<form>
+					<input type="radio" name="numeral" value="Hex">Hex<br>
+					<input type="radio" name="numeral" value="Dec" checked>Dec<br>
+					<input type="radio" name="numeral" value="Oct">Oct<br>
+					<input type="radio" name="numeral" value="Bin">Bin<br>
+				</form>
+			</div>
+			<div class="typeButtons">
+				<form>
+					<input type="radio" name="type" value="Qword" checked>Qword<br>
+					<input type="radio" name="type" value="Dword">Dword<br>
+					<input type="radio" name="type" value="Word">Word<br>
+					<input type="radio" name="type" value="Byte">Byte<br>
+				</form>
+			</div>
+			<div class="squareButtons">
+				<table class="table">
+					<tr>
+						<td class="button"></td>
+						<td class="button light">Mod</td>
+						<td class="button ">A</td>
+						<td class="button">MC</td>
+						<td class="button">MR</td>
+						<td class="button">MS</td>
+						<td class="button">M+</td>
+						<td class="button">M-</td>
+					</tr>
+					<tr>
+						<td class="button light">(</td>
+						<td class="button light">)</td>
+						<td class="button ">B</td>
+						<td class="button light">&#8592;</td>
+						<td class="button light">CE</td>
+						<td class="button light">C</td>
+						<td class="button light">&#177;</td>
+						<td class="button">&radic;</td>
+					</tr>
+					<tr>
+						<td class="button light">RoL</td>
+						<td class="button light">RoR</td>
+						<td class="button ">C</td>
+						<td class="button light">7</td>
+						<td class="button light">8</td>
+						<td class="button light">9</td>
+						<td class="button light">/</td>
+						<td class="button">%</td>
+					</tr>
+					<tr>
+						<td class="button light">Or</td>
+						<td class="button light">Xor</td>
+						<td class="button ">D</td>
+						<td class="button light">4</td>
+						<td class="button light">5</td>
+						<td class="button light">6</td>
+						<td class="button light">*</td>
+						<td class="button">1/x</td>
+					</tr>
+					<tr>
+						<td class="button light">Lsh</td>
+						<td class="button light">Rsh</td>
+						<td class="button ">E</td>
+						<td class="button light">1</td>
+						<td class="button light">2</td>
+						<td class="button light">3</td>
+						<td class="button light">-</td>
+						<td class="button light" rowspan="2">=</td>
+					</tr>
+					<tr>
+						<td class="button light">Not</td>
+						<td class="button light">And</td>
+						<td class="button ">F</td>
+						<td class="button light" colspan="2">0</td>
+						<td class="button">.</td>
+						<td class="button light">+</td>
+					</tr>
+				</table>
+				
+			</div>
+			
+		</div>
+	</div>
 
-	
 
+</div>
 
-</table>
-</section>
 </body>
 </html>

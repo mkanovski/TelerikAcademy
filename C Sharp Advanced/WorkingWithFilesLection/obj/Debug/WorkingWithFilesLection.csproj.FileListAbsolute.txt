@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkingWithFilesLection\bin\Debug\WorkingWithFilesLection.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkingWithFilesLection\bin\Debug\WorkingWithFilesLection.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkingWithFilesLection\bin\Debug\WorkingWithFilesLection.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkingWithFilesLection\obj\Debug\WorkingWithFilesLection.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkingWithFilesLection\obj\Debug\WorkingWithFilesLection.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkingWithFilesLection\obj\Debug\WorkingWithFilesLection.pdb
