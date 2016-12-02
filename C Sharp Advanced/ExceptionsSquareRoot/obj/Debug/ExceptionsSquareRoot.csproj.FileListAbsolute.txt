@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsSquareRoot\bin\Debug\ExceptionsSquareRoot.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsSquareRoot\bin\Debug\ExceptionsSquareRoot.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsSquareRoot\bin\Debug\ExceptionsSquareRoot.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsSquareRoot\obj\Debug\ExceptionsSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsSquareRoot\obj\Debug\ExceptionsSquareRoot.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsSquareRoot\obj\Debug\ExceptionsSquareRoot.pdb

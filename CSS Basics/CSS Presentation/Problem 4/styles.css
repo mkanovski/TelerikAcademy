@@ -181,6 +181,7 @@ img{
 }
 
 .button {
+	
 	border: 1px solid #959DA7;
 	border-radius: 2px;
 	padding: 0px 0px 0px 0px;
@@ -193,6 +194,7 @@ img{
 }
 
 .button:hover{
+
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fdecd8+0,fdecd8+50,fbd073+52,fbf19c+100 */
 background: #fdecd8; /* Old browsers */
 background: -moz-linear-gradient(top,  #fdecd8 0%, #fdecd8 50%, #fbd073 52%, #fbf19c 100%); /* FF3.6-15 */
@@ -212,18 +214,6 @@ background: linear-gradient(to bottom,  #f4cd89 0%,#f4cd89 50%,#f4c462 52%,#f2ee
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4cd89', endColorstr='#f2eeaa',GradientType=0 ); /* IE6-9 */
 
 	border-color: #C29B29;
-}
-
-.button .empty:hover{
-	background-color: #D9E4F1;
-}
-
-.empty:active{
-	background-color: #D9E4F1;
-}
-
-div#empty1.button:hover{
-	background-color: #D9E4F1;
 }
 
 form {

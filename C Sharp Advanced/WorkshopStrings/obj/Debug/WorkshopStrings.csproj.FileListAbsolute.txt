@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopStrings\bin\Debug\WorkshopStrings.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopStrings\bin\Debug\WorkshopStrings.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopStrings\bin\Debug\WorkshopStrings.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopStrings\obj\Debug\WorkshopStrings.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopStrings\obj\Debug\WorkshopStrings.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\WorkshopStrings\obj\Debug\WorkshopStrings.pdb

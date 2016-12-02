@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsEnterNumber\bin\Debug\ExceptionsEnterNumber.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsEnterNumber\obj\Debug\ExceptionsEnterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsEnterNumber\bin\Debug\ExceptionsEnterNumber.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsEnterNumber\bin\Debug\ExceptionsEnterNumber.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsEnterNumber\obj\Debug\ExceptionsEnterNumber.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExceptionsEnterNumber\obj\Debug\ExceptionsEnterNumber.pdb

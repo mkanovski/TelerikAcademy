@@ -11,53 +11,41 @@ namespace FindWord
     {
         static void Main(string[] args)
         {
-            Thread.CurrentThread.CurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
-            string word = Console.ReadLine();
-            string text = Console.ReadLine();
 
-            int startIndex = 0;
-            int endIndex = text.IndexOf('.');
+            string code = "4a4c6b";
 
-            StringBuilder result = new StringBuilder();
+            Console.WriteLine(Encode(code));
 
-            string temp;
 
-            while (endIndex > 0)
-            {
-                temp = text.Substring(startIndex, endIndex - startIndex);
 
-                if (chechPrint(temp.Trim(), word))
-                {
-                    result.Append(temp.Trim());
-                    result.Append(". ");
-                }
 
-                startIndex = endIndex + 1;
-                endIndex = text.IndexOf('.', startIndex);
-            }
-            Console.WriteLine(result.ToString().Trim());
+
+
         }
 
-        static bool chechPrint(string temp, string word)
+        static string Encode(string code)
         {
-            int subStart = temp.IndexOf(word, 0);
-            bool print = false;
-            int checkStartIndex;
-            int checkEndIndex;
-            while (subStart >= 0 && print == false)
+
+            string codeResult = "";
+            for (int i = 0; i < code.Length; i++)
             {
-                checkStartIndex = subStart - 1;
-                checkEndIndex = subStart + word.Length;
-                if (
-                    (checkStartIndex < 0 || !char.IsLetter(temp[checkStartIndex])) &&
-                    (checkEndIndex >= temp.Length || !char.IsLetter(temp[checkEndIndex]))
-                    )
+                string curRep = "";
+
+                while (char.IsNumber(code[i]))
                 {
-                    print = true;
+                    curRep += code[i];
+                    i++;
                 }
-                subStart = temp.IndexOf(word, checkEndIndex);
+                if (curRep == "")
+                {
+                    curRep = "1";
+                }
+
+                codeResult = codeResult + new string(code[i], int.Parse(curRep));
             }
-            return print;
+
+
+            return codeResult;
         }
     }
 }
