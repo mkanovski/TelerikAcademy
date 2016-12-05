@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsEnterNumber", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopStrings", "WorkshopStrings\WorkshopStrings.csproj", "{E5349560-23BB-4454-9463-D692DA55188B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopMagicWords", "WorkshopMagicWords\WorkshopMagicWords.csproj", "{D1359171-ABE2-4D1B-AAB4-0058B72CE70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{E5349560-23BB-4454-9463-D692DA55188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5349560-23BB-4454-9463-D692DA55188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5349560-23BB-4454-9463-D692DA55188B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1359171-ABE2-4D1B-AAB4-0058B72CE70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1359171-ABE2-4D1B-AAB4-0058B72CE70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1359171-ABE2-4D1B-AAB4-0058B72CE70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1359171-ABE2-4D1B-AAB4-0058B72CE70F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
