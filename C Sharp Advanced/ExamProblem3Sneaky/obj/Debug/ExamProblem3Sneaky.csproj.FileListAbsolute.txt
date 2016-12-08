@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem3Sneaky\bin\Debug\ExamProblem3Sneaky.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem3Sneaky\bin\Debug\ExamProblem3Sneaky.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem3Sneaky\bin\Debug\ExamProblem3Sneaky.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem3Sneaky\obj\Debug\ExamProblem3Sneaky.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem3Sneaky\obj\Debug\ExamProblem3Sneaky.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem3Sneaky\obj\Debug\ExamProblem3Sneaky.pdb

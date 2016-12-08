@@ -39,9 +39,11 @@ namespace WorkshopMagicWords
 
                 elementToMove = rewords[i];
 
-                rewords.RemoveAt(i);
+                rewords[i] = null;
 
                 rewords.Insert(newPos, elementToMove);
+
+                rewords.Remove(null);
 
                 
             }

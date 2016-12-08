@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem4Gosho\bin\Debug\ExamProblem4Gosho.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem4Gosho\bin\Debug\ExamProblem4Gosho.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem4Gosho\bin\Debug\ExamProblem4Gosho.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem4Gosho\obj\Debug\ExamProblem4Gosho.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem4Gosho\obj\Debug\ExamProblem4Gosho.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem4Gosho\obj\Debug\ExamProblem4Gosho.pdb

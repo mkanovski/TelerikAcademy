@@ -1,0 +1,6 @@
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem1\bin\Debug\ExamProblem1.exe.config
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem1\bin\Debug\ExamProblem1.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem1\bin\Debug\ExamProblem1.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem1\obj\Debug\ExamProblem1.exe
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem1\obj\Debug\ExamProblem1.pdb
+C:\Users\Tanya\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem1\obj\Debug\ExamProblem1.csprojResolveAssemblyReference.cache
