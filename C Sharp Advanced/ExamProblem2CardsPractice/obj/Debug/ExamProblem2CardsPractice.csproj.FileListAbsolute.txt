@@ -1,0 +1,6 @@
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem2CardsPractice\bin\Debug\ExamProblem2CardsPractice.exe.config
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem2CardsPractice\bin\Debug\ExamProblem2CardsPractice.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem2CardsPractice\bin\Debug\ExamProblem2CardsPractice.pdb
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem2CardsPractice\obj\Debug\ExamProblem2CardsPractice.csprojResolveAssemblyReference.cache
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem2CardsPractice\obj\Debug\ExamProblem2CardsPractice.exe
+C:\Users\mkanovsk\Documents\TelerikAcademy\C Sharp Advanced\ExamProblem2CardsPractice\obj\Debug\ExamProblem2CardsPractice.pdb
